@@ -1,2 +1,2 @@
-# Behavior-ML-Model
+# CALI: Compassionionate Algorithm for Learning Insights
 Introducing CALI, a groundbreaking machine learning model designed to revolutionize behavior forecasting in educational settings. By harnessing predictive analytics, CALI offers real-time insights into potential disruptions, allowing for proactive interventions. Built on a robust Python-based architecture, CALI integrates effortlessly with current systems, providing a scalable solution for education districts. It's not just about predicting behavior; it's about reshaping the future of student-focused learning environments.
